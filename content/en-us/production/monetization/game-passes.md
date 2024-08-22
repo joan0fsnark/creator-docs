@@ -72,7 +72,7 @@ To locate a Pass ID:
 
 ## Monetizing Passes
 
-After you [create a Pass](#creating-passes), you can configure its settings to monetize it.
+After you [create a Pass](#creating-passes), you can configure its settings to monetize it. Please note -- ownership of the experience is necessary for toggling sales and adjusting price.
 
 To monetize a Pass:
 
